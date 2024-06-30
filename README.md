@@ -7,7 +7,7 @@ MobileNetV2 is a convolutional neural network architecture built especially for 
 
 This CNN was chosen as model since it reduces the computations involved, thus making the model lightweight and accessible through mobile devices, also since the MobileNetv2 is pre-trained on ImageNet dataset, it works well on image classification tasks. 
 
-<img width="500" height='300' alt="MobileNetV2" src="https://github.com/AshishViswas/Plant_Leaf_Disease_Detection/assets/130546401/7a19f405-1b9d-444d-bd71-dbeee0f10a5c">
+<img width="500" height='300' alt="MobileNetV2" src="https://github.com/AshishViswas/Plant_Leaf_Disease_Detection/assets/130546401/6fb7b1f5-8511-40e6-9289-01b5d65ca6ce">
 
 # PlantVillage_Dataset
 The PlantVillage Dataset is a large scale dataset consisting of different plant leaves and their 38 categories of possible infections. It is widely used dataset for research purposes in disease detection in plants.      
@@ -39,7 +39,7 @@ The model has been tested on test generator which consisted of 8146 images which
 
 # Metrics Visualization
 
-<img width="800" height = '500' alt="training_validation_plot" src="https://github.com/AshishViswas/Plant_Leaf_Disease_Detection/assets/130546401/78a9d9a8-1ed3-4db4-bd7a-253a832b2916">
+![training_validation_plot](https://github.com/AshishViswas/Plant_Leaf_Disease_Detection/assets/130546401/67926ce8-3735-4859-8194-23e0f407ea52)
 
 The Above graph visualize the metrics during the training process, it shows Training & Validation Loss and Training & Validation Accuracy with the starting value and ending value. The graphs shows the gradual decrease in the loss function and gradual increase accuracy as shown in the visualization.
 
