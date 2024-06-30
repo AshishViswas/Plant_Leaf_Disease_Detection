@@ -34,6 +34,9 @@ The trained model has been saved : Plant_Leaf_Disease_Detector.h5
 
 You can find the model weights in this Repository. You can download these weights and can use them to predict on new Images   
 
+The plant-leaf-disease-detection.ipynb file is not being rendered properly on Github, so refer to this link to view and download the file :         
+https://nbviewer.org/github/AshishViswas/Plant_Leaf_Disease_Detection/blob/master/plant-leaf-disease-detection.ipynb      
+
 # Model Testing
 The model has been tested on test generator which consisted of 8146 images which resulted in a accuracy of 96% with a loss of 0.0333 approximately.    
 
